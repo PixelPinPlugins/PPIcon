@@ -79,7 +79,7 @@
         checkUseElems = function () {
             var base;
             var bcr;
-            var fallback = "https://cdn.rawgit.com/PixelPinPlugins/PPIcon/e0738bd7/symbol-defs.svg"; // optional fallback URL in case no base path to SVG file was given and no symbol definition was found.
+            var fallback = "https://cdn.rawgit.com/PixelPinPlugins/PPIcon/2f536b59/symbol-defs.svg"; // optional fallback URL in case no base path to SVG file was given and no symbol definition was found.
             var hash;
             var href;
             var i;
